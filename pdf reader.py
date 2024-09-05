@@ -2,6 +2,8 @@
 from pypdf import PdfReader
 
 # creating a pdf reader object
+# Replace with the desired pdf file
+
 reader = PdfReader('IT.pdf')
 
 # printing number of pages in pdf file
